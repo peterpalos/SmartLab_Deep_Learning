@@ -1,4 +1,4 @@
-# BME - Deep Learning subject
+# [SmartLab - Deep Learning in practice subject](http://smartlab.tmit.bme.hu/oktatas-deep-learning)
 ### Mini projects
 
 * HomeWork1 - Handle image, html and sound data
